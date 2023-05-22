@@ -17,3 +17,4 @@
 ||hachyderm.io^
 ||mastodon.sdf.org^
 ||mastodon.world^
+||mastodonapp.uk^
