@@ -18,3 +18,5 @@
 ||mastodon.sdf.org^
 ||mastodon.world^
 ||mastodonapp.uk^
+||mastodon.nl^
+||aus.social^
