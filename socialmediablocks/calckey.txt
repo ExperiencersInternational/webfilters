@@ -1,0 +1,11 @@
+! Title: Calckey block list
+
+! Description: Blocks a variety of Calckey servers. Uses formatting that AdGuard uses for their lists. I don't expect anyone to actually use it, but if anyone really has a need to block Calckey (which I'd love to hear), this can be more useful than other filters. Please note that this may block other services hosted on the specified domains.
+
+||calckey.social^
+||i.calckey.cloud^
+||stop.voring.me^
+||calckey.jp^
+||calckey.world^
+||calckey.online^
+||evil.social^
