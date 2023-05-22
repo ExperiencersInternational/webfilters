@@ -9,3 +9,13 @@
 ||calckey.world^
 ||calckey.online^
 ||evil.social^
+||calckey.nz^
+||vancity.social^
+||lethallava.land^
+||calckey.pl^
+||infosec.town^
+||erisly.social^
+||calckey.art^
+||calckey.lgbt^
+||blahaj.zone^
+||easymode.im^
