@@ -1,0 +1,19 @@
+! Title: Mastodon block list
+! Description: Blocks a variety of Mastodon servers (including those running on forks such as glitch-soc) since a lot of places do a bad job at it. Uses formatting that AdGuard uses for their lists. I don't expect anyone to actually use it, but if anyone really has a need to block Mastodon (which I'd love to hear), this can be more useful than other filters.
+||mastodon.social^
+||mastodon.online^
+||mstdn.social^
+||masto.ai^
+||mastodon.cloud^
+||infosec.exchange^
+||tech.lgbt^
+||wetdry.world^
+||fosstodon.org^
+||floss.social^
+||mastodon.gamedev.place^
+||peoplemaking.games^
+||mas.to^
+||joinmastodon.org^
+||hachyderm.io^
+||mastodon.sdf.org^
+||mastodon.world^
